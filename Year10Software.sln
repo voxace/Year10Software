@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mario", "Mario\Mario.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFun", "NumberFun\NumberFun.csproj", "{EFE188B0-EB03-40FA-B859-618800B17048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickADoor", "PickADoor\PickADoor.csproj", "{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeProgram", "AgeProgram\AgeProgram.csproj", "{A1A1FADE-2F38-428B-9727-F363385B38B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{EFE188B0-EB03-40FA-B859-618800B17048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE188B0-EB03-40FA-B859-618800B17048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE188B0-EB03-40FA-B859-618800B17048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

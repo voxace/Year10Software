@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{4E6736B1-D04C-4CA2-BF7E-741603100746}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickADoor", "PickADoor\PickADoor.csproj", "{D3D86B02-DD18-4110-9DF2-A4A4B8A783ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeProgram", "AgeProgram\AgeProgram.csproj", "{A1A1FADE-2F38-428B-9727-F363385B38B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{AD084D6C-929E-4DF2-B8DA-BE774F8D9CB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1A1FADE-2F38-428B-9727-F363385B38B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD084D6C-929E-4DF2-B8DA-BE774F8D9CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD084D6C-929E-4DF2-B8DA-BE774F8D9CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD084D6C-929E-4DF2-B8DA-BE774F8D9CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD084D6C-929E-4DF2-B8DA-BE774F8D9CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

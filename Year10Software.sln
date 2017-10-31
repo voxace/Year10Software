@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumber", "GuessMyNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{01C50D80-7472-42C1-B8E2-E543EA789CC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{AD63834D-4188-4ED8-9B05-5A15DBC505EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{01C50D80-7472-42C1-B8E2-E543EA789CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C50D80-7472-42C1-B8E2-E543EA789CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C50D80-7472-42C1-B8E2-E543EA789CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD63834D-4188-4ED8-9B05-5A15DBC505EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD63834D-4188-4ED8-9B05-5A15DBC505EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD63834D-4188-4ED8-9B05-5A15DBC505EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD63834D-4188-4ED8-9B05-5A15DBC505EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
